@@ -2,7 +2,7 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
-      Ver. 2021/09/16 08:48<br>
+      Ver. 2021/09/16 09:33<br>
       Using skipWaiting: true<br>
       For a guide and recipes on how to configure / customize this project,<br>
       check out the
